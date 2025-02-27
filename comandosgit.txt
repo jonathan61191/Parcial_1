@@ -1,0 +1,11 @@
+git clone url
+
+git branch parcial_jonathan
+git checkout parcial_jonathan
+git push -u origin parcial_jonathan
+
+
+git status (veo lo que voy a subir)
+git add . (preparar push)
+git commit -m "mesaje descriptivo"
+git push  
